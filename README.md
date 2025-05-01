@@ -85,7 +85,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 📬 Contact Information
 **Maintainer:** Savee Gupta  
 **Email:** saveegupta672@email.com  
-**LinkedIn:** [linkedin.com/in/saveegupta]([https://linkedin.com/in/saveegupta](https://www.linkedin.com/in/savee-gupta-9b85991ab/))
+**LinkedIn:** [linkedin.com/in/savee-gupta-9b85991ab/]([https://linkedin.com/in/saveegupta](https://www.linkedin.com/in/savee-gupta-9b85991ab/))
 
 ---
 
